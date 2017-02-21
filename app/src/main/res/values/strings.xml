@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BetterAdaptersTest</string>
+
+    <string name="fullScreenAdvertText">Full Screen Advert</string>
+    <string name="bannerAdvertText">Banner Advert</string>
+
+</resources>
