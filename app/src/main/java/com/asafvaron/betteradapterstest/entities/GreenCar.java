@@ -12,7 +12,7 @@ public class GreenCar implements Car {
 
     @Override
     public String getManufacturer() {
-        return "Green";
+        return "Green Car";
     }
 
     @Override

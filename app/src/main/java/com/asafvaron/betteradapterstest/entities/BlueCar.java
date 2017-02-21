@@ -10,7 +10,7 @@ import com.asafvaron.betteradapterstest.adapter.TypeFactory;
 public class BlueCar implements Car {
     @Override
     public String getManufacturer() {
-        return "Blue";
+        return "Blue Car";
     }
 
     @Override
